@@ -1,25 +1,25 @@
-# MERHABA! 👩🏻‍💻📊
+# HELLO THERE! 👩🏻‍💻📊
 
-<!-- Buraya arkadaşınınki gibi kendi ismine özel tasarladığın bir banner görselini ekleyebilirsin -->
+<!-- Buraya daha sonra kendi banner görselini ekleyebiliriz -->
 <!-- <img src="banner_linki_buraya_gelecek.png" width="100%"> -->
 
-### Hakkımda
+### About Me
 
-<span translate="no">Hacettepe Üniversitesi</span> Matematik Bölümü mezunu bir veri tutkunuyum. Analitik problem çözme disiplinimi kodlama ile harmanlamaya büyük bir ilgi duyuyorum. Şu anda veriden stratejik içgörüler çıkaran, yenilikçi ve veri odaklı projeler geliştirmeye odaklanmış durumdayım.
+I am a Mathematics graduate from Hacettepe University with a strong passion for data. I love combining my analytical problem-solving discipline with coding. Currently, I am focused on developing innovative, data-driven projects that extract strategic insights from complex datasets.
 
-*   🔭 Şu sıralar **veri analizi ve anomali tespiti** projeleri üzerine çalışıyorum.
-*   🌱 Kendimi **makine öğrenmesi** temelleri, <span translate="no">Python</span> ve <span translate="no">Power BI</span> alanlarında geliştiriyorum.
-*   👯 Veri bilimi ve iş zekası odaklı yenilikçi projelerde iş birliği yapmak isterim.
-*   📫 Bana nasıl ulaşabilirsiniz: <span translate="no">cerenn.kiper@gmail.com</span>
+*   🔭 I’m currently working on **data analysis and anomaly detection** projects.
+*   🌱 I’m continuously improving my skills in **machine learning fundamentals, Python, and Power BI**.
+*   👯 I’m looking to collaborate on innovative data science and business intelligence projects.
+*   📫 How to reach me: cerenn.kiper@gmail.com
 
-### 🚀 Becerilerim
+### 🚀 Skills
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🛠️ Kullandığım Araçlar
+### 🛠️ Tools I Use
 <p align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
-### 💬 Bağlantı Kuralım
+### 💬 Let's Connect
 <p align="left">
   <!-- Aşağıdaki href linkini kendi LinkedIn profil linkinle değiştirmeyi unutma -->
   <a href="https://linkedin.com/in/cerenkiper" target="_blank">
