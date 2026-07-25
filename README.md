@@ -1,9 +1,5 @@
 # HELLO THERE! 👩🏻‍💻📊
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/642a4172-2e49-4665-b7ad-21bfeafe3e14.mp4" width="700" autoplay loop muted></video>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Mathematical+Problem+Solver;Python+%26+Power+BI+Developer" alt="Typing SVG" />
 </p>
 
