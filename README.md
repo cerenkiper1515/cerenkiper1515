@@ -1,6 +1,7 @@
 # HELLO THERE! 👩🏻‍💻📊
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Veri+Bilimi+Tutkunu;Matematiksel+Problem+Cozucu;Python+ve+Power+BI+Gelistirici" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Mathematical+Problem+Solver;Python+%26+Power+BI+Developer" alt="Typing SVG" />
 </p>
 
 <!-- Buraya daha sonra kendi banner görselini ekleyebiliriz -->
@@ -36,15 +37,19 @@ I am a Mathematics graduate from Hacettepe University with a strong passion for 
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-### 📂 Öne Çıkan Çalışmalarım
-| Proje Adı | Teknolojiler | Açıklama |
-| :--- | :--- | :--- |
-| **Kredi Kartı Dolandırıcılığı Analizi** | Python, Makine Öğrenmesi | Lojistik regresyon kullanılarak anomali tespiti modellemesi. |
-| **(İkinci Projen)** | Power BI, SQL | (Projeni anlatan kısa bir cümle) |
+### 📂 Featured Projects
 
-### 📊 GitHub İstatistiklerim
+| Project Name | Description | Tools & Tech |
+| :--- | :--- | :--- |
+| **Credit-Card-Fraud-Anomaly-Detection** | This project aims to build an end-to-end analytical pipeline for financial anomaly detection. By modeling credit card transaction data with Logistic Regression, it effectively identifies fraudulent transactions. | Python, Machine Learning |
+| **Financial-Future-Simulation** | Financial forecasting tool utilizing Monte Carlo simulations to predict future asset prices (Stocks, Crypto, Gold) through 2026. Built with Polars for high-performance data processing and Plotly for visualization. | Python, Polars, Plotly |
+| **Signal_Protocol** | A technical research report analyzing the mathematical foundations of the Signal Protocol. Covers End-to-End Encryption mechanisms, the Double Ratchet Algorithm, and XEdDSA signatures. | Research, Mathematics |
+| **Python-Polars** | A comprehensive technical guide demonstrating high-performance data analysis workflows using the Polars library. Includes examples of lazy evaluation, filtering, and aggregations. | Python, Polars |
+
+### 📊 GitHub Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=senin-kullanici-adin&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cerenkiper1515&show_icons=true&theme=tokyonight" />
 </p>
 
 
