@@ -1,6 +1,6 @@
 # HELLO THERE! 👩🏻‍💻📊
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/70400092-5e38-413d-beed-0023e0f85c49" width="100%">
+  <video src="https://github.com/user-attachments/assets/642a4172-2e49-4665-b7ad-21bfeafe3e14.mp4" width="100%" autoplay loop muted></video>
 </p>
 
 <p align="center">
