@@ -1,6 +1,6 @@
 # HELLO THERE! 👩🏻‍💻📊
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a0/0c/33/a00c33a921d3f66c9ff9fc79bafae2f3.gif" width="100%">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%">
 </p>
 
 <p align="center">
