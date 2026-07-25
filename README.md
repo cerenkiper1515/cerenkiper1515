@@ -1,6 +1,6 @@
 # HELLO THERE! 👩🏻‍💻📊
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ceren%20Kiper&fontSize=80&fontAlignY=40&desc=Data%20Analyst%20%26%20Mathematician&descAlignY=60&descSize=25" width="100%" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%">
 </p>
 
 <p align="center">
