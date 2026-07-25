@@ -1,6 +1,6 @@
 # HELLO THERE! 👩🏻‍💻📊
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/120cb532-55ed-4252-9534-83aa660db63b" width="100%">
+  <img src="https://github.com/user-attachments/assets/70400092-5e38-413d-beed-0023e0f85c49" width="100%">
 </p>
 
 <p align="center">
