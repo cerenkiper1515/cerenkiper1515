@@ -3,9 +3,27 @@
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=I+am+Ceren+Kiper;Data+Science+Enthusiast;Mathematical+Problem+Solver;Python+%26+Power+BI+Developer" alt="Typing SVG" />
-</p>
+<div align="center">
+  <!-- Üst kısımdaki 3 boyutlu hareketli çiçek ve böceklerimiz -->
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cherry%20Blossom.png" width="55" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" width="55" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sunflower.png" width="55" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" width="55" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Tulip.png" width="55" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Honeybee.png" width="55" />
+  
+  <br>
+
+  <!-- Mor, yumuşak fontlu ve cıvıl cıvıl hareketli yazımız -->
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hello+There!+I'm+Ceren;Data+Analyst+%26+Mathematician;Welcome+to+My+Colorful+Portfolio!" alt="Typing SVG" />
+  
+  <br>
+
+  <!-- Alt kısımdaki tamamlayıcı tatlı detaylar -->
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Four%20Leaf%20Clover.png" width="45" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Caterpillar.png" width="45" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hibiscus.png" width="45" />
+</div>
 
 <!-- Buraya daha sonra kendi banner görselini ekleyebiliriz -->
 <!-- <img src="banner_linki_buraya_gelecek.png" width="100%"> -->
