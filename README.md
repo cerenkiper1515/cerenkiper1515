@@ -1,5 +1,7 @@
 # HELLO THERE! 👩🏻‍💻📊
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/68895f50-27db-467d-95c4-903c70cf77a0.gif" width="100%">
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Mathematical+Problem+Solver;Python+%26+Power+BI+Developer" alt="Typing SVG" />
 </p>
