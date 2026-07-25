@@ -1,10 +1,10 @@
 # HELLO THERE! 👩🏻‍💻📊
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Mathematical+Problem+Solver;Python+%26+Power+BI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=I+am+Ceren+Kiper;Data+Science+Enthusiast;Mathematical+Problem+Solver;Python+%26+Power+BI+Developer" alt="Typing SVG" />
 </p>
 
 <!-- Buraya daha sonra kendi banner görselini ekleyebiliriz -->
