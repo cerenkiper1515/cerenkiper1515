@@ -46,10 +46,11 @@ I am a Mathematics graduate from Hacettepe University with a strong passion for 
 | **Signal_Protocol** | A technical research report analyzing the mathematical foundations of the Signal Protocol. Covers End-to-End Encryption mechanisms, the Double Ratchet Algorithm, and XEdDSA signatures. | Research, Mathematics |
 | **Python-Polars** | A comprehensive technical guide demonstrating high-performance data analysis workflows using the Polars library. Includes examples of lazy evaluation, filtering, and aggregations. | Python, Polars |
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Top Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cerenkiper1515&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerenkiper1515&layout=compact&theme=tokyonight&hide_border=true" width="350"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cerenkiper1515&theme=tokyonight&hide_border=true" width="400"/>
 </p>
 
 
